@@ -8,4 +8,4 @@ def cmd_klitor(m):
     if delta == 0:
         bot.reply_to(m, f"Ой, а ты уже пробовал сегодня 😅\nТекущий клитор — <b>{new_size} мм</b> 🍆")
     else:
-        bot.reply_to(m, f"🍆 {name}, твой клитор изменился на <b>{delta:+d} мм</b>, теперь — <b>{new_size} мм</b> 🍆")
+        bot.reply_to(m, f"🍆 {name}, твой клитор изменился на <b>{delta:+d} мм</b>, теперь — <b>{new_size} мм</b> 🍆") 
